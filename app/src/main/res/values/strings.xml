@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Activity Navigation</string>
+    <string name="hero_image_for_login_screen">Hero image for login screen</string>
 </resources>
