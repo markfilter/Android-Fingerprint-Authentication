@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Activity Navigation</string>
     <string name="hero_image_for_login_screen">Hero image for login screen</string>
+    <string name="login_instruction_login_first">To enable Fingerprint Authentication, please first login to your account.</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_icon_image">Login Icon Image</string>
+    <string name="login_disclaimer_1">I accept the</string>
+    <string name="login_disclaimer_2">terms and conditions</string>
+    <string name="accept_the_terms_button">accept the terms button</string>
 </resources>
