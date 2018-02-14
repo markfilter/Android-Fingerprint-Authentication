@@ -8,4 +8,8 @@
     <string name="login_disclaimer_1">I accept the</string>
     <string name="login_disclaimer_2">terms and conditions</string>
     <string name="accept_the_terms_button">accept the terms button</string>
+    <string name="fingerprint_device_does_not_support">Your device doesn\'t support fingerprint authentication</string>
+    <string name="fingerprint_please_enable_permission">Please enable the fingerprint permission</string>
+    <string name="fingerprint_no_fingerprint_configured">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings</string>
+    <string name="fingerprint_please_enable_lock_screen">Please enable lock screen security in your device\'s Settings</string>
 </resources>
